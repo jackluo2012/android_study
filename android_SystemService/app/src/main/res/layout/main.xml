@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:id="@+id/network"
+        android:text="检测是否有网络"
+        android:onClick="doClick"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:id="@+id/wifi_manager"
+        android:text="关启关闭wifi"
+        android:onClick="doClick"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:id="@+id/getvoice"
+        android:text="获取系统音量"
+        android:onClick="doClick"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:id="@+id/getpackagename"
+        android:text="获取当前进程包名"
+        android:onClick="doClick"
+        android:layout_height="wrap_content" />
+</LinearLayout>
