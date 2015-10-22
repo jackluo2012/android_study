@@ -1,9 +1,12 @@
 package net.webjoy.jackluo.android_ui_template_design;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.Toast;
+
+import net.webjoy.jackluo.topbar.Topbar;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -11,6 +14,18 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        Topbar topbar = (Topbar) findViewById(R.id.topbar);
+        topbar.setOnTopbarClickListener(new Topbar.topbarClickListener() {
+            @Override
+            public void leftClick() {
+                Toast.makeText(MainActivity.this, "net.webjoy LeftButton", Toast.LENGTH_SHORT).show();
+            }
+
+            @Override
+            public void rightClick() {
+                Toast.makeText(MainActivity.this, "net.webjoy RightButton", Toast.LENGTH_SHORT).show();
+            }
+        });
     }
 
     @Override
