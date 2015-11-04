@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jackluo/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/Users/jackluo/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/classes-4a6a1d455b68afcbd2eae702a30e966f5a677183.jar" />
+    </item>
+    <item
+        jar="/Users/jackluo/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1618fd467fb5971c394741e8976ededb97aaee0a">
+        <dex dex="/Users/jackluo/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/classes-7fec932768672958fa6db3a45d775be579359b57.jar" />
+    </item>
+    <item
+        jar="/Users/jackluo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/jackluo/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-827ffd4555d8cc49f76082d3ad970df29939c92e.jar" />
+    </item>
+    <item
+        jar="/Users/jackluo/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/Users/jackluo/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/classes-d1c21faf827d85387ad9ff5219bcde12ae0f11b2.jar" />
+    </item>
+    <item
+        jar="/Users/jackluo/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/jackluo/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-e3213c5ee1434bf13759842cc981c61834ebd82e.jar" />
+    </item>
+    <item
+        jar="/Users/jackluo/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/jackluo/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/classes-e43079ca55877a515396ec7b5dc1b6929e7ee850.jar" />
+    </item>
+
+</items>

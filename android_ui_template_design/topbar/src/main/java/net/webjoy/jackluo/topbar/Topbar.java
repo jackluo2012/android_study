@@ -133,4 +133,11 @@ public class Topbar extends RelativeLayout {
             }
         });
     }
+    public void setLeftIsvisable(boolean flag){
+        if (flag){
+            leftButton.setVisibility(View.VISIBLE);
+        }else{
+            leftButton.setVisibility(View.GONE);
+        }
+    }
 }

@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(MainActivity.this, "net.webjoy RightButton", Toast.LENGTH_SHORT).show();
             }
         });
+        topbar.setLeftIsvisable(false);
     }
 
     @Override
